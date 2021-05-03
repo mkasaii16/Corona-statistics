@@ -2,10 +2,14 @@
 
 Corona in Iran and World
 
-Published in Bazar and Myket
-
 ![screanshott](https://assets.myket.ir/screenshots/xxlarge/com.mfuzzy.corona_world/a17e7b45-0c00-4017-8de2-c698afc24116.png)
 ![screanshott](https://assets.myket.ir/screenshots/xxlarge/com.mfuzzy.corona_world/cde40963-5721-4036-b94a-cef1f3c4b799.png)
+
+Published in Bazar and Myket
+
+- [Bazar](https://cafebazaar.ir/app/com.mfuzzy.corona_world)
+- [Myket](https://myket.ir/app/com.mfuzzy.corona_world)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
